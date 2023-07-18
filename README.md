@@ -11,7 +11,7 @@ This package provides machine learning methods for longitudinal and clustered da
 Install via devtools: 
 
 ```sh
-> devtools::install_github("nguforche/MEml")
+> devtools::install_github("shimelsD/MEml")
 ```
 ## example 
 - Run the example in the demo folder 
