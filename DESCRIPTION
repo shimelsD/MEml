@@ -8,7 +8,7 @@ Description: Machine learning methods for longitudinal and clustered data based
     generalized boosted machines.
 Depends: R (>= 3.1.2)
 Imports: PresenceAbsence, caret, rpart, lme4, rpart.plot, partykit,RRF,flexmix,
-        Matrix, vcd, grid, plyr, inTrees, gbm, DMwR, kernlab
+        Matrix, vcd, grid, plyr, inTrees, gbm, DMwR2, kernlab
 License: GPL(>= 3)
 LazyData: true
 NeedsCompilation: no
